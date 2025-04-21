@@ -1,12 +1,13 @@
-# 🚀 Research Code for *[Paper Title]*
+# 🚀 Research Code for * Arrhythmia Detection from ECG Signals*
 
 Welcome to the official repository for our research code! This repository contains all the scripts and resources used for the experiments described in the paper.
 
 ---
 
 ## 📄 About the Research
-This repository supports our research on **[Add Specific Topic or Objective]**, utilizing the following publicly available datasets:
-
+This repository supports our research on **Improving ECG Classification Accuracy with Hybrid Machine Learning Techniques and Comparing Methods and Evaluating Feature Potential**,  This repository contains supplementary materials and code for the research, which explores advanced techniques in ECG signal classification. The study incorporates hybrid feature extraction methods, including convolutional features and autoencoder-based features, alongside various machine learning models.
+## Datasets
+The following publicly available datasets were used in this research:
 - 📊 **[MIT-BIH Arrhythmia Dataset](https://www.physionet.org/physiobank/database/mitdb/)**  
 - 📊 **[ECG5000 Dataset](https://archive.ics.uci.edu/ml/datasets/ECG5000)**  
 
@@ -25,8 +26,8 @@ Our work focuses on [briefly mention key objectives, e.g., "improving feature ex
 
 ## 🛠️ How to Use
 1. **Setup**: Instructions for setting up the environment (will be included post-publication).  
-2. **Run**: Steps to execute the code and reproduce results.  
-3. **Results**: Sample outputs and performance metrics for comparison.  
+2. **Run**: Steps to execute the code and reproduce results (will be included post-publication).
+3. **Results**: Sample outputs and performance metrics for comparison (will be included post-publication).
 
 Stay tuned! Full instructions will be provided after the repository is updated.
 
@@ -40,13 +41,13 @@ To get notified about updates, follow this repository or check back after the pu
 ## 🔗 Useful Links
 - [MIT-BIH Arrhythmia Dataset](https://www.physionet.org/physiobank/database/mitdb/)  
 - [ECG5000 Dataset](https://archive.ics.uci.edu/ml/datasets/ECG5000)  
-- [Our GitHub Profile](https://github.com/YourProfileName)  
 
 ---
 
 ## ✨ Contact
 For inquiries or collaboration opportunities, feel free to reach out:  
-📧 **[Your Email Address]**  
+📧 **princeece48@gmail.com** 
+
 
 ---
 
