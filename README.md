@@ -6,14 +6,11 @@ Welcome to the official repository for our research code! This repository contai
 
 ## 📄 About the Research
 This repository supports our research on **Improving ECG Classification Accuracy with Hybrid Machine Learning Techniques and Comparing Methods and Evaluating Feature Potential**,  This repository contains supplementary materials and code for the research, which explores advanced techniques in ECG signal classification. The study incorporates hybrid feature extraction methods, including convolutional features and autoencoder-based features, alongside various machine learning models.
-## Datasets
+## 🏬 Datasets
 The following publicly available datasets were used in this research:
 - 📊 **[MIT-BIH Arrhythmia Dataset](https://www.physionet.org/physiobank/database/mitdb/)**  
 - 📊 **[ECG5000 Dataset](https://archive.ics.uci.edu/ml/datasets/ECG5000)**  
 
-Our work focuses on [briefly mention key objectives, e.g., "improving feature extraction using advanced machine learning models"].
-
----
 
 ## 📁 Repository Overview
 - **Datasets**: Links to the public datasets used in our research.  
