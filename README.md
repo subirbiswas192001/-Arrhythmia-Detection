@@ -17,7 +17,8 @@ The following publicly available datasets were used in this research:
 - **Code**: Scripts for data preprocessing, model training, and evaluation.  
 - **Results**: Documentation of key findings and model performance metrics.  
 
-**Note:** The complete Python code will be made publicly available upon the publication of the paper.
+
+<span style="color:red;">**Note:** The complete Python code will be made publicly available upon the publication of the paper.</span>
 
 ---
 
