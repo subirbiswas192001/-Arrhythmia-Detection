@@ -37,7 +37,7 @@ To get notified about updates, follow this repository or check back after the pu
 
 ## ✨ Contact
 For inquiries or collaboration opportunities, feel free to reach out:  
-📧 **princeece48@gmail.com** 
+📧 **subirbiswas192001@gmail.com** 
 
 
 ---
