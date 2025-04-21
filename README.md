@@ -35,12 +35,6 @@ To get notified about updates, follow this repository or check back after the pu
 
 ---
 
-## 🔗 Useful Links
-- [MIT-BIH Arrhythmia Dataset](https://www.physionet.org/physiobank/database/mitdb/)  
-- [ECG5000 Dataset](https://archive.ics.uci.edu/ml/datasets/ECG5000)  
-
----
-
 ## ✨ Contact
 For inquiries or collaboration opportunities, feel free to reach out:  
 📧 **princeece48@gmail.com** 
