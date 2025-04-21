@@ -9,7 +9,7 @@ This repository supports our research on **Improving ECG Classification Accuracy
 ## 🏬 Datasets
 The following publicly available datasets were used in this research:
 - 📊 **[MIT-BIH Arrhythmia Dataset](https://www.physionet.org/physiobank/database/mitdb/)**  
-- 📊 **[ECG5000 Dataset](https://archive.ics.uci.edu/ml/datasets/ECG5000)**  
+- 📊 **[ECG5000 Dataset](https://www.timeseriesclassification.com/description.php?Dataset=ECG5000)**  
 
 
 ## 📁 Repository Overview
