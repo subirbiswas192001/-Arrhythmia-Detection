@@ -18,7 +18,7 @@ The following publicly available datasets were used in this research:
 - **Results**: Documentation of key findings and model performance metrics.  
 
 
-<span style="color:red;">**Note:** The complete Python code will be made publicly available upon the publication of the paper.</span>
+**Note:** *The complete Python code will be made publicly available upon the publication of the paper.*
 
 ---
 
