@@ -1,4 +1,4 @@
-# 🚀 Research Code for * Arrhythmia Detection from ECG Signals*
+# 🚀 Research Code and Results for * Arrhythmia Detection from ECG Signals*
 
 Welcome to the official repository for our research code! This repository contains all the scripts and resources used for the experiments described in the paper.
 
