@@ -25,7 +25,7 @@ The following publicly available datasets were used in this research:
 ## 🛠️ How to Use
 1. **Setup**: Instructions for setting up the environment (will be included post-publication).  
 2. **Run**: Steps to execute the code and reproduce results (will be included post-publication).
-3. **Results**: Sample outputs and performance metrics for comparison (will be included post-publication).
+3. **Results**: Sample outputs and performance metrics for comparison 🧑‍💻 **[Results](https://github.com/subirbiswas192001/-Arrhythmia-Detection/tree/main/Outputs)**  
 
 Stay tuned! Full instructions will be provided after the repository is updated.
 
